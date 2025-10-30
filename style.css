@@ -41,7 +41,8 @@ body * {
 
 #container {
   /* border: 1px solid red; */
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*margin-right: auto; para alinha uma div*/
   /*margin-left: auto; para alinha uma div*/
   /*margin: auto; centralizar uma div*/
